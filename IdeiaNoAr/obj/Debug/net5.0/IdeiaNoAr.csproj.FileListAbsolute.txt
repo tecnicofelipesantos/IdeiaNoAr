@@ -1,0 +1,16 @@
+C:\PROJETOS\IdeiaNoAr\IdeiaNoAr\bin\Debug\net5.0\IdeiaNoAr.exe
+C:\PROJETOS\IdeiaNoAr\IdeiaNoAr\bin\Debug\net5.0\IdeiaNoAr.deps.json
+C:\PROJETOS\IdeiaNoAr\IdeiaNoAr\bin\Debug\net5.0\IdeiaNoAr.runtimeconfig.json
+C:\PROJETOS\IdeiaNoAr\IdeiaNoAr\bin\Debug\net5.0\IdeiaNoAr.runtimeconfig.dev.json
+C:\PROJETOS\IdeiaNoAr\IdeiaNoAr\bin\Debug\net5.0\IdeiaNoAr.dll
+C:\PROJETOS\IdeiaNoAr\IdeiaNoAr\bin\Debug\net5.0\ref\IdeiaNoAr.dll
+C:\PROJETOS\IdeiaNoAr\IdeiaNoAr\bin\Debug\net5.0\IdeiaNoAr.pdb
+C:\PROJETOS\IdeiaNoAr\IdeiaNoAr\obj\Debug\net5.0\IdeiaNoAr.csproj.AssemblyReference.cache
+C:\PROJETOS\IdeiaNoAr\IdeiaNoAr\obj\Debug\net5.0\IdeiaNoAr.GeneratedMSBuildEditorConfig.editorconfig
+C:\PROJETOS\IdeiaNoAr\IdeiaNoAr\obj\Debug\net5.0\IdeiaNoAr.AssemblyInfoInputs.cache
+C:\PROJETOS\IdeiaNoAr\IdeiaNoAr\obj\Debug\net5.0\IdeiaNoAr.AssemblyInfo.cs
+C:\PROJETOS\IdeiaNoAr\IdeiaNoAr\obj\Debug\net5.0\IdeiaNoAr.csproj.CoreCompileInputs.cache
+C:\PROJETOS\IdeiaNoAr\IdeiaNoAr\obj\Debug\net5.0\IdeiaNoAr.dll
+C:\PROJETOS\IdeiaNoAr\IdeiaNoAr\obj\Debug\net5.0\ref\IdeiaNoAr.dll
+C:\PROJETOS\IdeiaNoAr\IdeiaNoAr\obj\Debug\net5.0\IdeiaNoAr.pdb
+C:\PROJETOS\IdeiaNoAr\IdeiaNoAr\obj\Debug\net5.0\IdeiaNoAr.genruntimeconfig.cache
